@@ -11,3 +11,4 @@ This is a simple git rebase test.
 
 
 This is edited from yiqiu branch
+This is edited from master
