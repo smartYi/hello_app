@@ -3,3 +3,6 @@ Hello world
 
 
 I am Yi
+
+
+This is a simple git rebase test.
